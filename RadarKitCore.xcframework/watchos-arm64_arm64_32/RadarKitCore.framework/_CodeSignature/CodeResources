@@ -14,11 +14,11 @@
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/Project/arm64-apple-watchos.swiftsourceinfo</key>
 		<data>
-		shPyAly4Hhr7EcNZXL96JhJ6Amk=
+		GqQz9AFq+VLbneXUMjyn8px4L+U=
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/Project/arm64_32-apple-watchos.swiftsourceinfo</key>
 		<data>
-		91sRKbOnf0qznkluR9f4qtWCfPY=
+		jdtYtxEGuzK9tiF0FFmdHtx30uY=
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/arm64-apple-watchos.abi.json</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/arm64-apple-watchos.swiftmodule</key>
 		<data>
-		BWFoXmz5XEVINer6Ps8EfRbs5Ow=
+		tIBs1pG65Iu5JTefLFJqcS+cbCs=
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/arm64_32-apple-watchos.abi.json</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/arm64_32-apple-watchos.swiftmodule</key>
 		<data>
-		JR4fV9sh7gm4nsiGXI8ApTU4cdI=
+		Ii6cd8QB7zfcWc0PKAEc1epkfHs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -82,22 +82,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			shPyAly4Hhr7EcNZXL96JhJ6Amk=
+			GqQz9AFq+VLbneXUMjyn8px4L+U=
 			</data>
 			<key>hash2</key>
 			<data>
-			DTKk5nuvMc22RISPLt4bPbdiB/EsuGR0b1aGAexiDD8=
+			RkuLTnWSzymzPt0480wxQrisHmf5lQvn2f+9DAzIc9g=
 			</data>
 		</dict>
 		<key>Modules/RadarKitCore.swiftmodule/Project/arm64_32-apple-watchos.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			91sRKbOnf0qznkluR9f4qtWCfPY=
+			jdtYtxEGuzK9tiF0FFmdHtx30uY=
 			</data>
 			<key>hash2</key>
 			<data>
-			4C+HGaOQzpF9DhW6M3us3fGhRNBTqQdomBvlGOAVYBM=
+			enKpzIha8PYaVbH701UIQ9Ip2O/+JFOSsthsGUVPTn4=
 			</data>
 		</dict>
 		<key>Modules/RadarKitCore.swiftmodule/arm64-apple-watchos.abi.json</key>
@@ -148,11 +148,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BWFoXmz5XEVINer6Ps8EfRbs5Ow=
+			tIBs1pG65Iu5JTefLFJqcS+cbCs=
 			</data>
 			<key>hash2</key>
 			<data>
-			MaBbInUI4z10olgiSVYwuJ2CFVMu6kLe4FcqP/vrYeM=
+			Z9GMHYMby11s3YB5XHwFQMB/GqTfyp+Xpku48tK6fcw=
 			</data>
 		</dict>
 		<key>Modules/RadarKitCore.swiftmodule/arm64_32-apple-watchos.abi.json</key>
@@ -203,11 +203,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			JR4fV9sh7gm4nsiGXI8ApTU4cdI=
+			Ii6cd8QB7zfcWc0PKAEc1epkfHs=
 			</data>
 			<key>hash2</key>
 			<data>
-			RWKeyY3fTQjpX9/iBIBqCvuH5O3nPELmVwDQSgCQctE=
+			pVsj9l9Lb4w4ti3Fg4ydzX9JQOdNLjKOIrLRLmzJG7U=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

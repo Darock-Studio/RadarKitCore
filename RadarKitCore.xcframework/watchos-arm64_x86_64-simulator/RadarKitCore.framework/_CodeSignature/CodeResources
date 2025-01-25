@@ -14,11 +14,11 @@
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/Project/arm64-apple-watchos-simulator.swiftsourceinfo</key>
 		<data>
-		7BXIa8zV/gyNwfjtrBq5XfZdc6w=
+		vlmoxhboVcSv8FTIqsnwT8+VWxw=
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/Project/x86_64-apple-watchos-simulator.swiftsourceinfo</key>
 		<data>
-		p5v8BdmQHBkI2lwuP0TKCbtfpeI=
+		cDYdVAeFpVcmPtbVDUNOui5IhQ0=
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/arm64-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		wbkPrLI9z3uWrXX1jQTr1KUNfew=
+		x21ZF7LkTFLEanOP3LiV0iomdJE=
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/x86_64-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		U0GxoSFtJnaQncilkNtLGKl0s/0=
+		0UQOgEJZzYYo17yoKqY3MQFnVXY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -78,14 +78,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MLpLG3v5Up8M51uUCAao4gSlALbKVqpgqJPolKQr81s=
+			d8RVBIBvK4TC4plb1MMsz8zFBGUs/n+txW6K2y7vw+8=
 			</data>
 		</dict>
 		<key>Modules/RadarKitCore.swiftmodule/Project/x86_64-apple-watchos-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DV/P32dxEG1Q6rZqsR6c5LJoJEkzAaBoryqaTnjAyYE=
+			Ofi289HEyXjednuZd1RwvULYH0gtNIVTnpEGAzSUCHY=
 			</data>
 		</dict>
 		<key>Modules/RadarKitCore.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
@@ -120,7 +120,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nJnIhxk8eMgZzyEtAFO1THAgkHUZFHB5x9EtKsPOI20=
+			F3jttZWCtivyG1O1B6gbYFT71GMqMwoyxDkCDzE+G9A=
 			</data>
 		</dict>
 		<key>Modules/RadarKitCore.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
@@ -155,7 +155,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GQEwhmd5k5x6Q1gshYnaNP1F4IqDfNGavti9st22HXk=
+			uW8OTVQAhYjAkpiG1Rh/3+P/Cv1ix3FUivs3H6Uf3bE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

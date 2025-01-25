@@ -22,14 +22,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XUs8iXIBlLTLxRs5eGKCsoJklqz3x2f5qttkh3iMBCE=
+			snDSqsDM+R1LDeI8qVF7xXrCndBgKHMRNeb89C9MpHc=
 			</data>
 		</dict>
 		<key>Modules/RadarKitCore.swiftmodule/Project/x86_64-apple-ios-macabi.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ze/+ZDUkcBhRkEqFjb+JLoa5cz75y7FclxFULtP933k=
+			PV+AMSk/KJvQD6J8wnmN3FOe/Q/LNznSSz5oyS4g4T8=
 			</data>
 		</dict>
 		<key>Modules/RadarKitCore.swiftmodule/arm64-apple-ios-macabi.abi.json</key>
@@ -64,7 +64,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2uC2QFceXd0WCOUKMuLHzSbx1GhiGfJJJdY3VG10m+M=
+			uqmq8J3zjMlxIeyrVpPaakoFUduQvnJOc7TExvlb6ZQ=
 			</data>
 		</dict>
 		<key>Modules/RadarKitCore.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
@@ -99,7 +99,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fQxj8hMvFuEazp/OnGPY6LUxisK8C11jAmoUTerDyMw=
+			cIKsu6VyWTzOXbzrPOaiiYJYa7CuXDMkyDW8vYHS+Iw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
