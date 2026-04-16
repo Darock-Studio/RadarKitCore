@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		73PRc4dbkvsv5EQ/uDX1qJuFeoQ=
+		84iN5Z0+mwL89ZQMmGHkeu8y2eU=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -22,14 +22,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6bA3lKsGZSgscwEfqURdvedkQx4DNQTPaoDfTPl+ZPY=
+			pKmqbDccfS9F989ovTHZfJ983wNxD3ni6XiZvyluBoc=
 			</data>
 		</dict>
 		<key>Modules/RadarKitCore.swiftmodule/Project/x86_64-apple-macos.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			REvF4azlBdqBNOwNlPMsp6j21fkwvRwDkI2eQuAdsz8=
+			duLaHP9448eJYWaTrh7VUdE1vSOpDilebtwtJeKxGbM=
 			</data>
 		</dict>
 		<key>Modules/RadarKitCore.swiftmodule/arm64-apple-macos.abi.json</key>
@@ -43,28 +43,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LEOXlLJJ2sAMX7R/0sYUoYcDDTckzSuIJL2l2XCWr9A=
+			CCcxw+KVtsTMR9T2IX470XEJIByeqPXDDzTpcA45MZo=
 			</data>
 		</dict>
 		<key>Modules/RadarKitCore.swiftmodule/arm64-apple-macos.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7tG29TJT0euejLIcy7nt7xomSBMS/aABkJrunSjlKOw=
+			riufyJ4aa76bh62ZckRW7xcxazyMhdjVGEhhDVbrj9M=
 			</data>
 		</dict>
 		<key>Modules/RadarKitCore.swiftmodule/arm64-apple-macos.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LEOXlLJJ2sAMX7R/0sYUoYcDDTckzSuIJL2l2XCWr9A=
+			CCcxw+KVtsTMR9T2IX470XEJIByeqPXDDzTpcA45MZo=
 			</data>
 		</dict>
 		<key>Modules/RadarKitCore.swiftmodule/arm64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eFVQTUmpcvBw7t1HdK+ccq1rAO5LW8j59hkjKs9c5kE=
+			n3w7HgzFAGJyXL7yDM/DMurHf4geKavAx2u0w9eHOlQ=
 			</data>
 		</dict>
 		<key>Modules/RadarKitCore.swiftmodule/x86_64-apple-macos.abi.json</key>
@@ -78,28 +78,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XHAO/Nh59cQT6k7JmIvO05bo40WfyqwRoZ+AU7epP+0=
+			ZAyPaLijkn3yZtnYbTQE8zDXLvDx36THDfrfGC5n9PY=
 			</data>
 		</dict>
 		<key>Modules/RadarKitCore.swiftmodule/x86_64-apple-macos.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			45J+q0wVOKMm00C96xvwS42JNVP59Q7T9xyL7KdeWHE=
+			HN98+fqsAtFzRcQMYMPqE2NPHcmvyFXWNGmutpXYq24=
 			</data>
 		</dict>
 		<key>Modules/RadarKitCore.swiftmodule/x86_64-apple-macos.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XHAO/Nh59cQT6k7JmIvO05bo40WfyqwRoZ+AU7epP+0=
+			ZAyPaLijkn3yZtnYbTQE8zDXLvDx36THDfrfGC5n9PY=
 			</data>
 		</dict>
 		<key>Modules/RadarKitCore.swiftmodule/x86_64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YM0kWVRQ61DPauxLzeJXNbvKydUqqj9d60mauRdL0lA=
+			2l/hsZNNEfeic3hVJ05QgoGIVVOfZRAJ7u1sprLueb0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -113,7 +113,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TzqTzKZ8VOruYiVIc5OADaQyGdrm8grcy+Ih7YA+6p4=
+			PO6pIvm6J3MeNex3NkkAWY1c5CFbJIk6LR0g8K0lJpc=
 			</data>
 		</dict>
 	</dict>
