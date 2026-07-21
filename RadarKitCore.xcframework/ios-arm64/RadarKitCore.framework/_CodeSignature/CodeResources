@@ -10,11 +10,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ngqV8034M7eTM6vlh1PduGiSdRE=
+		8MLp2yufzQ2K6Re7hGftUVpXZME=
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		d9UmQ0ZfqQhjuwM+4QDIHgxZ3og=
+		i/0Qz7//oX3ugFnX2Mai109TuTU=
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -22,19 +22,19 @@
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		GOlVTGD8yj/NaV0T4mNdm5RgCX8=
+		KpHHbg1J+Q7f1isfUpZkdAVZfZw=
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		qgUG5C0c7gVPtL0Zh/atqEl8a4o=
+		siqKdp9CDlWyVgnRGAgrL+2Pk+E=
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		GOlVTGD8yj/NaV0T4mNdm5RgCX8=
+		KpHHbg1J+Q7f1isfUpZkdAVZfZw=
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		+NCMflG4a62XucIjXGPw7yP6eSU=
+		yYs5acyv8wM60uhV+a8ylhgaH18=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -54,7 +54,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Kg+N4epbjHpL9wbMBrpr1+FTI4SMX7U4QRuNr8xVH2I=
+			GReIglyi2w1v+Ypzl+OnFb1olSrZLZcv8iX69pIYw0k=
 			</data>
 		</dict>
 		<key>Modules/RadarKitCore.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -68,28 +68,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			99MUdgKW4/++7qqd5sExLZe1zhlA048LI28/tE6dhBo=
+			Dhj1km2GsDrqxfEmhH439ONGBC9Mw6Oo3BhI4E0oAhQ=
 			</data>
 		</dict>
 		<key>Modules/RadarKitCore.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HUfKhVZT4fjKBz+kKUmwi1cDKXJl6SNzDG+wqo+19iU=
+			VXkeeCZEzgbsHpg2kbkFeNZP865vRP411XDpG+NF7rA=
 			</data>
 		</dict>
 		<key>Modules/RadarKitCore.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			99MUdgKW4/++7qqd5sExLZe1zhlA048LI28/tE6dhBo=
+			Dhj1km2GsDrqxfEmhH439ONGBC9Mw6Oo3BhI4E0oAhQ=
 			</data>
 		</dict>
 		<key>Modules/RadarKitCore.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3sKaCOT3IpwjwHEYvO24OkHk01KWQYNBStyZg/jaJ1c=
+			xw+a+m9lMY5XpZW0VEKfwMzHGdN7iGuCSEi5J7e/Nck=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
