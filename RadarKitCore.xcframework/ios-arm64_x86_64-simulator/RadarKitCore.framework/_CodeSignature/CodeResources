@@ -10,15 +10,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		lGol78MZe6P5lsxETkL58nTFClU=
+		ZFK6U+Lv+heNqFxASHVKavmz62s=
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		dkAw1glJkEOaucduVfN1pI8pwBQ=
+		UEnN2C78y44ssVu9dRWieBh+ruk=
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		nU6WutE5Hs4HorExYG/rogbGltE=
+		2hSRdlyH4y69B0ezcj0XXgRCVtg=
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -26,19 +26,19 @@
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		kUVHdp8RuojnKigOc3j63ft6MII=
+		mGA53KqhObYWQpooIzmxk29XWW4=
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		m0GoqhBC7HTow69q59MZd2Hyn5g=
+		XbMX2zB4t09PTQwp+6dYGn+hySY=
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		kUVHdp8RuojnKigOc3j63ft6MII=
+		mGA53KqhObYWQpooIzmxk29XWW4=
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		3si7i5rPDu45NCR4jNQp7a+lh8g=
+		yrx3A5pgj0nXZfkZajrvUt/rEIo=
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -46,19 +46,19 @@
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		10zCujSL65qyQdBTR2I0FxwFOvU=
+		INC+xUU+mzRNPuAiLY6b+4G4/IQ=
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		nkpqH/oJVpD+XIWI3VvUy6BD5Dk=
+		YDtkchGJS29rl20QBrgofcOUuPs=
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		10zCujSL65qyQdBTR2I0FxwFOvU=
+		INC+xUU+mzRNPuAiLY6b+4G4/IQ=
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		RVOW4ZIZTTfMFjR4Hc/c8EA0J4Q=
+		zN3xvwj3TT1PUL/O3AOjZtiR+C4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -78,14 +78,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XTJtbWD6JcMtYBsCh1oVMoHEp7CZlAuaKQ+fRTaImMk=
+			b/ROCsup704pdCyIBOHEe/YjFa03UAWd5Tm3Yqk97MI=
 			</data>
 		</dict>
 		<key>Modules/RadarKitCore.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9IhAi0N4/+l7zg8KcxM6Y03S9kOootwq7/TbN/wRrW8=
+			JpPNRdYZUphvUp8RSC05FSkTpqDFUia0vS6UThgRm+s=
 			</data>
 		</dict>
 		<key>Modules/RadarKitCore.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -99,28 +99,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Is1lOUik19bJPrPn9E1R5YS7vOwKAcf2QA9Xo3M7BM8=
+			4gJHiMUUN8mxFEonZ0yCYVo33WxXIRqFeAJPZPPLbE8=
 			</data>
 		</dict>
 		<key>Modules/RadarKitCore.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eVxvmhHDAvVtpQIIVLxxNSMPhDmT/gSfvFN0GJe0xuE=
+			0JvwAbXm0Xbdk1jGJWO+Y3XXB4XkR/iKFPFHzY7atnM=
 			</data>
 		</dict>
 		<key>Modules/RadarKitCore.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Is1lOUik19bJPrPn9E1R5YS7vOwKAcf2QA9Xo3M7BM8=
+			4gJHiMUUN8mxFEonZ0yCYVo33WxXIRqFeAJPZPPLbE8=
 			</data>
 		</dict>
 		<key>Modules/RadarKitCore.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uKulnKgw8MNEC+SFoyhFM+/yybRPTyDKztTGszY1Fvw=
+			5KlSWJR+bObpHHWa87IipCjPkncClWJhyJktrbp0214=
 			</data>
 		</dict>
 		<key>Modules/RadarKitCore.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -134,28 +134,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1L4zz5kSopiZLmuFCDO5ewP0/CNZ1uaIyanTEfkdPYM=
+			7aM/0v9URxo2SwYaGui7rKt7AFIz0HwKXMDDtes1EBk=
 			</data>
 		</dict>
 		<key>Modules/RadarKitCore.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			y/zHouWxEEUPCS0/QLqYgnEzVq5svr5YrFTGHlPaOcw=
+			hUTeSlh9h2//qeJuFjOAvYkku2ET7m2NJpLasHFJOT4=
 			</data>
 		</dict>
 		<key>Modules/RadarKitCore.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1L4zz5kSopiZLmuFCDO5ewP0/CNZ1uaIyanTEfkdPYM=
+			7aM/0v9URxo2SwYaGui7rKt7AFIz0HwKXMDDtes1EBk=
 			</data>
 		</dict>
 		<key>Modules/RadarKitCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SNg+LNDJqDi4WZckEqxqeR42EzAkmkBsDMfIg7ha4jo=
+			Uklpq8ogAhGtjtfiFXScOZMicVusJGjxTEbk5euTEdI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

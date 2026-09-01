@@ -2,8 +2,10 @@
 // swift-compiler-version: Apple Swift version 6.3.3 effective-5.10 (swiftlang-6.3.3.1.3 clang-2100.1.1.101)
 // swift-module-flags: -target x86_64-apple-macos13.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -O -enable-experimental-feature SymbolLinkageMarkers -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name RadarKitCore
 // swift-module-flags-ignorable:  -formal-cxx-interoperability-mode=off -interface-compiler-version 6.3.3
+import AppKit
 import CommonCrypto
 import CryptoKit
+import DarockFoundation
 import DeviceCheck
 import Foundation
 import OSLog
@@ -110,6 +112,48 @@ public enum RKCFileStatus : Swift.String, Swift.CaseIterable, Swift.Equatable, S
     get
   }
 }
+public struct FeedbackTag : Swift.Hashable {
+  public var name: Swift.String {
+    get
+  }
+  public static func == (lhs: RadarKitCore.FeedbackTag, rhs: RadarKitCore.FeedbackTag) -> Swift.Bool
+  public init?(fromCombined string: Swift.String)
+  public var color: SwiftUICore.Color {
+    get
+  }
+  public func toString() -> Swift.String
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+extension RadarKitCore.FeedbackTag : Swift.Codable {
+  public enum CodingKeys : Swift.String, Swift.CodingKey {
+    case name
+    case red
+    case green
+    case blue
+    public init?(rawValue: Swift.String)
+    public init?(stringValue: Swift.String)
+    public init?(intValue: Swift.Int)
+    public typealias RawValue = Swift.String
+    public var intValue: Swift.Int? {
+      get
+    }
+    public var rawValue: Swift.String {
+      get
+    }
+    public var stringValue: Swift.String {
+      get
+    }
+  }
+  public init(from decoder: any Swift.Decoder) throws
+  public func encode(to encoder: any Swift.Encoder) throws
+}
+extension Swift.Array where Element == RadarKitCore.FeedbackTag {
+  public init(fromCombined string: Swift.String)
+  public func toString() -> Swift.String
+}
 @objc @_inheritsConvenienceInitializers @objcMembers public class RKCAttachmentManager : ObjectiveC.NSObject {
   @objc public static let shared: RadarKitCore.RKCAttachmentManager
   @objc override dynamic public init()
@@ -117,6 +161,57 @@ public enum RKCFileStatus : Swift.String, Swift.CaseIterable, Swift.Equatable, S
 }
 public struct RKCAttachment {
 }
+extension SwiftUICore.Color {
+  public init(light: SwiftUICore.Color, dark: SwiftUICore.Color)
+  public init(light: AppKit.NSColor, dark: AppKit.NSColor)
+}
+public struct RadarFeedback : Swift.Codable {
+  public var id: Swift.Int
+  public var projectName: Swift.String
+  public var createdAt: Foundation.Date
+  public var title: Swift.String
+  public var status: RadarKitCore.RKCFileStatus
+  public var sender: Swift.String
+  public var userDescription: Swift.String
+  public var tags: [RadarKitCore.FeedbackTag]
+  public var additionalData: [RadarKitCore.RadarFeedback.AdditionalData]
+  public var replies: [RadarKitCore.RadarFeedback.Reply]
+  public struct AdditionalData : Swift.Codable {
+    public var key: Swift.String
+    public var value: Swift.String
+    public init(key: Swift.String, value: Swift.String)
+    public func encode(to encoder: any Swift.Encoder) throws
+    public init(from decoder: any Swift.Decoder) throws
+  }
+  public struct Reply : Swift.Codable {
+    public var sender: Swift.String
+    public var createdAt: Foundation.Date
+    public var description: Swift.String
+    public var additionalData: [RadarKitCore.RadarFeedback.AdditionalData]
+    public func encode(to encoder: any Swift.Encoder) throws
+    public init(from decoder: any Swift.Decoder) throws
+  }
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+extension RadarKitCore.RadarFeedback {
+  public static func create(on project: Swift.String, title: Swift.String, sender: Swift.String, description: Swift.String, tags: [RadarKitCore.FeedbackTag] = [], additionalData: [RadarKitCore.RadarFeedback.AdditionalData] = []) async -> Swift.Int?
+}
+extension RadarKitCore.RadarFeedback {
+  public init?(project: Swift.String, id: Swift.Int) async
+}
+extension RadarKitCore.RadarFeedback {
+  @discardableResult
+  public static func reply(to id: Swift.Int, of project: Swift.String, content: RadarKitCore.RadarFeedback.Reply) async -> Swift.Bool
+  @discardableResult
+  public func reply(content: RadarKitCore.RadarFeedback.Reply) async -> Swift.Bool
+}
+extension RadarKitCore.RadarFeedback.Reply {
+  public init(sender: Swift.String, description: Swift.String, additionalData: [RadarKitCore.RadarFeedback.AdditionalData] = [])
+}
 extension RadarKitCore.NewFeedbackData.InputError : Swift.Equatable {}
 extension RadarKitCore.NewFeedbackData.InputError : Swift.Hashable {}
 extension RadarKitCore.RKCFileStatus : Swift.RawRepresentable {}
+extension RadarKitCore.FeedbackTag.CodingKeys : Swift.Equatable {}
+extension RadarKitCore.FeedbackTag.CodingKeys : Swift.Hashable {}
+extension RadarKitCore.FeedbackTag.CodingKeys : Swift.RawRepresentable {}
