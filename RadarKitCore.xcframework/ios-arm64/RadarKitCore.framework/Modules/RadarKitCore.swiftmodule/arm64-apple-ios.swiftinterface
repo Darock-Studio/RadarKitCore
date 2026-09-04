@@ -86,7 +86,7 @@ public struct NewFeedbackData {
     case rawString(Swift.String)
   }
 }
-public enum RKCFileStatus : Swift.String, Swift.CaseIterable, Swift.Equatable, Swift.Hashable, Swift.Codable {
+public enum RKCFileStatus : Swift.String, Swift.CaseIterable, Swift.Sendable, Swift.Hashable, Swift.Codable {
   case unmarked
   case underInvestigation
   case workAsExpected
@@ -112,7 +112,7 @@ public enum RKCFileStatus : Swift.String, Swift.CaseIterable, Swift.Equatable, S
     get
   }
 }
-public struct FeedbackTag : Swift.Hashable {
+public struct FeedbackTag : Swift.Sendable, Swift.Hashable {
   public var name: Swift.String {
     get
   }
@@ -166,7 +166,7 @@ extension SwiftUICore.Color {
   public init(light: SwiftUICore.Color, dark: SwiftUICore.Color)
   public init(light: UIKit.UIColor, dark: UIKit.UIColor)
 }
-public struct RadarFeedback : Swift.Codable {
+public struct RadarFeedback : Swift.Sendable, Swift.Hashable, Swift.Codable {
   public var id: Swift.Int
   public var projectName: Swift.String
   public var createdAt: Foundation.Date
@@ -177,22 +177,37 @@ public struct RadarFeedback : Swift.Codable {
   public var tags: [RadarKitCore.FeedbackTag]
   public var additionalData: [RadarKitCore.RadarFeedback.AdditionalData]
   public var replies: [RadarKitCore.RadarFeedback.Reply]
-  public struct AdditionalData : Swift.Codable {
+  public struct AdditionalData : Swift.Sendable, Swift.Hashable, Swift.Codable {
     public var key: Swift.String
     public var value: Swift.String
     public init(key: Swift.String, value: Swift.String)
+    public static func == (a: RadarKitCore.RadarFeedback.AdditionalData, b: RadarKitCore.RadarFeedback.AdditionalData) -> Swift.Bool
     public func encode(to encoder: any Swift.Encoder) throws
+    public func hash(into hasher: inout Swift.Hasher)
+    public var hashValue: Swift.Int {
+      get
+    }
     public init(from decoder: any Swift.Decoder) throws
   }
-  public struct Reply : Swift.Codable {
+  public struct Reply : Swift.Sendable, Swift.Hashable, Swift.Codable {
     public var sender: Swift.String
     public var createdAt: Foundation.Date
     public var description: Swift.String
     public var additionalData: [RadarKitCore.RadarFeedback.AdditionalData]
+    public static func == (a: RadarKitCore.RadarFeedback.Reply, b: RadarKitCore.RadarFeedback.Reply) -> Swift.Bool
     public func encode(to encoder: any Swift.Encoder) throws
+    public func hash(into hasher: inout Swift.Hasher)
+    public var hashValue: Swift.Int {
+      get
+    }
     public init(from decoder: any Swift.Decoder) throws
   }
+  public static func == (a: RadarKitCore.RadarFeedback, b: RadarKitCore.RadarFeedback) -> Swift.Bool
   public func encode(to encoder: any Swift.Encoder) throws
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
   public init(from decoder: any Swift.Decoder) throws
 }
 extension RadarKitCore.RadarFeedback {

@@ -14,7 +14,7 @@
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		rCAz4tU8m3ctJcpFEj2Z8tNxA28=
+		kMLOJepJUgDkN8t5I6FCT/7aT6s=
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		Th+80uB9YyEAcRWyVUuyM1K2ngA=
+		cN1GnXCHfq/nEwWb2mwpNIjnKZ8=
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		Th+80uB9YyEAcRWyVUuyM1K2ngA=
+		cN1GnXCHfq/nEwWb2mwpNIjnKZ8=
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		hCF/0pCJ4+UXEJkuYLddT9WrCgo=
+		PuXanP3rrLhJhAtuxCb0JY2hqXw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -54,7 +54,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MIJoifnGL3uww4OnCe/KNwSIWAEwMjdpZ+9pOJBfAHM=
+			O7Pfw7SSjFJvXOKyuhROPnZHRSDs9ZwhrX2Zrq2OZXE=
 			</data>
 		</dict>
 		<key>Modules/RadarKitCore.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -68,7 +68,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KyZcIqtYM/Qkr3GCZlCSc1TJEVbMBctnL7SMZ99ygxE=
+			JO72dgPkC+dxBDS+RB9+hGtLDKYzgvfqa26N6gqTzYs=
 			</data>
 		</dict>
 		<key>Modules/RadarKitCore.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -82,14 +82,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KyZcIqtYM/Qkr3GCZlCSc1TJEVbMBctnL7SMZ99ygxE=
+			JO72dgPkC+dxBDS+RB9+hGtLDKYzgvfqa26N6gqTzYs=
 			</data>
 		</dict>
 		<key>Modules/RadarKitCore.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eW99+R2Hjlslt/cpzeCTbe9LWjma+wK/fmIY5x50N/M=
+			UR8aCXrGcH0d9tRIfjzMPX+hQrWf17JBKXi4P7U738E=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

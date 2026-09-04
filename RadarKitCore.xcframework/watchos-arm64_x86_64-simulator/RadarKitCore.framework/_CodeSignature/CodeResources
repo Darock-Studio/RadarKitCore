@@ -14,11 +14,11 @@
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/Project/arm64-apple-watchos-simulator.swiftsourceinfo</key>
 		<data>
-		v/o3P7JAT+/J3KB5W60Y38gvhCw=
+		zy8QnS+WymFZzS/FeYgkSVEj2/4=
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/Project/x86_64-apple-watchos-simulator.swiftsourceinfo</key>
 		<data>
-		/izaJ2MJXeSaKeaBoy2i60t9fdM=
+		iu3GOnwO8G3o2fwUe4F2xcN184I=
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/arm64-apple-watchos-simulator.private.swiftinterface</key>
 		<data>
-		loRJfer35mTyg+iF2BivMorIog8=
+		Dsc0dRBU/7Hb7TeERBKuqb1sH6c=
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/arm64-apple-watchos-simulator.swiftdoc</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/arm64-apple-watchos-simulator.swiftinterface</key>
 		<data>
-		loRJfer35mTyg+iF2BivMorIog8=
+		Dsc0dRBU/7Hb7TeERBKuqb1sH6c=
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/arm64-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		EyqgEX8C1VXDMrjb3RHXuO8nPRs=
+		S6+MwxugRhj7X5DIr+J7FQPQlK4=
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/x86_64-apple-watchos-simulator.private.swiftinterface</key>
 		<data>
-		jCB3pd5H2O3GkSSb+5fhC0BhDo8=
+		vzGyHFM0QynUHRWdZh+D7F7uda0=
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/x86_64-apple-watchos-simulator.swiftdoc</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/x86_64-apple-watchos-simulator.swiftinterface</key>
 		<data>
-		jCB3pd5H2O3GkSSb+5fhC0BhDo8=
+		vzGyHFM0QynUHRWdZh+D7F7uda0=
 		</data>
 		<key>Modules/RadarKitCore.swiftmodule/x86_64-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		gY04UpkE29HmByuPQYeVzm4pb6A=
+		0TF4PEXf0KfqPrfJ6bOWEwilgIE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -78,14 +78,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OBS1HudLjEnO7QkznqDlccv7D4Oj6aEcN9DhYzIMqh8=
+			hY00LM6Y+9oCeiOyZ3fZKWUVR3V8XBHjNtRnbN2Tfrk=
 			</data>
 		</dict>
 		<key>Modules/RadarKitCore.swiftmodule/Project/x86_64-apple-watchos-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rRd2LnhQSsOOUy7oDarTA6JaLwdAeus7/2Xx5V3KhN4=
+			VKjY3WkPFSx3pcGy+So7+sCQb+peo+fRpk1W0nDVPIM=
 			</data>
 		</dict>
 		<key>Modules/RadarKitCore.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
@@ -99,7 +99,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wDKxeqIFbeAhtsFIbsXg+mllJzLIT0hoQWNjKmRGBIM=
+			1kO/IJzZI7qsh5wstPLIXGY9QcjUR6aVLR+ND+CMIsw=
 			</data>
 		</dict>
 		<key>Modules/RadarKitCore.swiftmodule/arm64-apple-watchos-simulator.swiftdoc</key>
@@ -113,14 +113,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wDKxeqIFbeAhtsFIbsXg+mllJzLIT0hoQWNjKmRGBIM=
+			1kO/IJzZI7qsh5wstPLIXGY9QcjUR6aVLR+ND+CMIsw=
 			</data>
 		</dict>
 		<key>Modules/RadarKitCore.swiftmodule/arm64-apple-watchos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QLFkdE6Px7bmWsWaAMCB9hTxOq3wJDUpaxcjeEbr/nM=
+			CYiFlEn8+QdISFw7WrrWnW0Foy/QKuxdhdGx+sWPhWQ=
 			</data>
 		</dict>
 		<key>Modules/RadarKitCore.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
@@ -134,7 +134,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rC0NsGR1t2RNUsB4JZ3nco1uR1rsDTq6Yjx+U5QedTg=
+			WdeBLfd8nHgOWZL/6R6vZubCYq68KX5+twDkwEYYm+M=
 			</data>
 		</dict>
 		<key>Modules/RadarKitCore.swiftmodule/x86_64-apple-watchos-simulator.swiftdoc</key>
@@ -148,14 +148,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rC0NsGR1t2RNUsB4JZ3nco1uR1rsDTq6Yjx+U5QedTg=
+			WdeBLfd8nHgOWZL/6R6vZubCYq68KX5+twDkwEYYm+M=
 			</data>
 		</dict>
 		<key>Modules/RadarKitCore.swiftmodule/x86_64-apple-watchos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BH/E52l90RPANHCErnmf72X2+aD9jqT3xtgel3K6e/g=
+			XyV/N0QEWJZfjn6bIWscriVFM3DBMwNeJpR+5xAsmoc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
