@@ -7,7 +7,7 @@ let package = Package(
     name: "RadarKitCore",
     products: [
         // Products define the executables and libraries a package produces, making them visible to other packages.
-        .library(name: "RadarKitCore", targets: ["RadarKitCore"]),
+        .library(name: "RadarKitCore", targets: ["RadarKitCore", "_RadarKitCoreDependenciesWrapper"]),
     ],
     dependencies: [
         .package(url: "https://github.com/Darock-Studio/DarockFoundation", branch: "main")
