@@ -15,7 +15,7 @@ let package = Package(
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
         // Targets can depend on other targets in this package and products from dependencies.
-        .binaryTarget(name: "RadarKitCore", url: "https://github.com/darock-studio/radarkitcore/releases/download/1.0.3/RadarKitCore.xcframework.zip", checksum: "096f306f4b4c2386fbfead479c13956f1dffca4a3bb1e31c3f889592519e1410"),
+        .binaryTarget(name: "RadarKitCore", url: "https://github.com/darock-studio/radarkitcore/releases/download/1.0.4/RadarKitCore.xcframework.zip", checksum: "251e83cdbcd23e64f90784d930361b7363b8396da69e51e35c5b9e06f1bccac7"),
         .target(name: "_RadarKitCoreDependenciesWrapper", dependencies: [
             "DarockFoundation"
         ])
